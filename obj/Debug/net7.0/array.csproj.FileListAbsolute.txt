@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/array/bin/Debug/net7.0/array
+/Users/macos/Desktop/Operator/array/bin/Debug/net7.0/array.deps.json
+/Users/macos/Desktop/Operator/array/bin/Debug/net7.0/array.runtimeconfig.json
+/Users/macos/Desktop/Operator/array/bin/Debug/net7.0/array.dll
+/Users/macos/Desktop/Operator/array/bin/Debug/net7.0/array.pdb
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.dll
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/refint/array.dll
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.pdb
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/array.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/array/obj/Debug/net7.0/ref/array.dll
